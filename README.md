@@ -58,17 +58,17 @@ The components section includes examples of UI components such as cards, modals,
    cd design-system
 3. Open index.html in your web browser to view the home page.
 
-Usage
+### Usage
 You can use this design system as a reference for creating consistent and modern web designs. Each section provides examples of design elements that you can incorporate into your own projects.
 
-CSS and JavaScript
+### CSS and JavaScript
 CSS (style.css)
 All styles for the design system are contained in the css/style.css file. This file includes base styles, navigation styles, color swatches, typography, buttons, forms, cards, modals, and alerts.
 
-JavaScript (script.js)
+### JavaScript (script.js)
 The js/script.js file contains JavaScript code to handle the functionality of modals.
 
-Contributing
+### Contributing
 If you would like to contribute to this project, please follow these steps:
 
 1. Fork the repository.
@@ -83,11 +83,11 @@ If you would like to contribute to this project, please follow these steps:
    git push origin feature/your-feature
 5. Create a pull request.
 
-License
+### License
 
 This project is licensed under the MIT License.
 
-Acknowledgements
+### Acknowledgements
 
 Material Design for the color palette inspiration.
 
