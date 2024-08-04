@@ -282,7 +282,7 @@ input {
     background-color: whitesmoke;
   }
   
-  .box {
+  .flexbox {
     height: 75px;
     width: 100px;
     background-color: dodgerblue;
