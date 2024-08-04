@@ -80,8 +80,8 @@ If you would like to contribute to this project, please follow these steps:
    git commit -m "Add your message"
 4. Push to the branch:
    ```sh
-5. git push origin feature/your-feature
-6. Create a pull request.
+   git push origin feature/your-feature
+5. Create a pull request.
 
 License
 
