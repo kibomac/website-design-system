@@ -53,11 +53,11 @@ The components section includes examples of UI components such as cards, modals,
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/design-system.git
-Navigate to the project directory:
-sh
-Copy code
-cd design-system
-Open index.html in your web browser to view the home page.
+2. Navigate to the project directory:
+   ```sh
+   cd design-system
+3. Open index.html in your web browser to view the home page.
+
 Usage
 You can use this design system as a reference for creating consistent and modern web designs. Each section provides examples of design elements that you can incorporate into your own projects.
 
@@ -71,23 +71,24 @@ The js/script.js file contains JavaScript code to handle the functionality of mo
 Contributing
 If you would like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch:
-sh
-Copy code
-git checkout -b feature/your-feature
-Make your changes and commit them:
-sh
-Copy code
-git commit -m "Add your message"
-Push to the branch:
-sh
-Copy code
-git push origin feature/your-feature
-Create a pull request.
+1. Fork the repository.
+2. Create a new branch:
+   ```sh
+   git checkout -b feature/your-feature
+3. Make your changes and commit them:
+   ```sh
+   git commit -m "Add your message"
+4. Push to the branch:
+   ```sh
+5. git push origin feature/your-feature
+6. Create a pull request.
+
 License
+
 This project is licensed under the MIT License.
 
 Acknowledgements
+
 Material Design for the color palette inspiration.
+
 Google Fonts for the Roboto and Lobster fonts.
