@@ -289,17 +289,29 @@ input {
     border: 1px solid lightgrey;
     display: inline-block;
   }
+
+.left,
+.center,
+.right {
+  min-height: 75px;
+  width: 125px;
+  background-color: dodgerblue;
+  border: 2px solid lightgrey;
+}
   
   #flexstart {
     justify-content: flex-start;
+    align-items: flex-start;
   }
   
   #flexend {
     justify-content: flex-end;
+    align-items: flex-end;
   }
   
   #center {
     justify-content: center;
+    align-items: center;
   }
   
   #spacearound {
@@ -309,3 +321,13 @@ input {
   #spacebetween {
     justify-content: space-between;
   }
+
+#baseline .center {
+  height: 100px;
+  width: 100px;
+  border: 5px solid turquoise;
+}
+
+#baseline {
+  align-items: baseline;
+}
